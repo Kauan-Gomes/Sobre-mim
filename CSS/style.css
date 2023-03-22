@@ -103,3 +103,33 @@ body {
     font-weight: 400;
 }
 
+.apresentacao_curriculo {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.apresentacao_curriculo_lista{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.apresentacao_curriculo_texto{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    ;
+}
+
+.apresentacao_curriculo_texto.subtitulo{
+    color: #22d4fd;
+}
+
+.apresentacao_curriculo_lista li {
+    line-height: 1.4;
+}
+
+a {
+    text-decoration: none;
+    color: #f6f6f6;
+}
