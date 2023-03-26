@@ -166,7 +166,7 @@ a {
     }
     .apresentacao{
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 3px 3px 6px 21px;
     }
     .apresentacao_conteudo{
         width: auto;
